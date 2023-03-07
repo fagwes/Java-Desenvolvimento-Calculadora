@@ -36,7 +36,7 @@ public class ProjCalculadora {
 			}
 			System.out.println("Resultado igual a: " + resultado);
 		} else {
-			// "Reinicie o programa e insira um número entre 1 a 4//
+			// "Reinicie o programa e insira uma opção entre 1 a 4 //
 		}
 
 	}
